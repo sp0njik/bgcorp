@@ -1,0 +1,13 @@
+/venv/
+.idea/
+*.sqlite3
+*.log
+**/migrations/*
+**/logs/*
+**/__pycache__/
+
+
+!**/migrations
+!**/migrations/__init__.py
+!**/logs
+!**/logs/__init__.py
